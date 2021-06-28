@@ -31,3 +31,11 @@ that's able to detect ASD in subjects/patients.
 
 # FMRI Data Visualization (Glass Map)
 ![2](https://user-images.githubusercontent.com/69692346/123607863-e0abbc80-d81b-11eb-9342-cf53ea5b7588.png)
+
+# FMRI Data Visualization (Co-relation Map SCN)
+![SCN](https://user-images.githubusercontent.com/69692346/123608226-33857400-d81c-11eb-9f2a-7470c41283ea.png)
+
+# FMRI Data Visualization (Co-relation Map ADN)
+![ADN](https://user-images.githubusercontent.com/69692346/123608317-45671700-d81c-11eb-8d5c-dc0b9fb6d519.png)
+
+
