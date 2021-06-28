@@ -24,3 +24,5 @@ works are being done to spot ASD supported neural
 patterns of functional connectivity. during this paper we've
 got proposed a ASD detection model supported FMRI data,
 that's able to detect ASD in subjects/patients.
+#FMRI Data Visualization
+![Visualizations](https://user-images.githubusercontent.com/69692346/123607369-7561ea80-d81b-11eb-9389-32a50e1c1fbc.png)
